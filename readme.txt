@@ -1,3 +1,4 @@
 Git is a version control tool
 Git is a software
 Git has a mutable index called stage
+Git tracks changes
